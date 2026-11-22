@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="423" height="254" viewBox="0 0 423 254" role="img" aria-label="GlobalXport. AI-powered export documentation, compliance and logistics for Indian MSME exporters.">
+<title>GlobalXport. AI-powered export documentation, compliance and logistics for Indian MSME exporters.</title>
+<defs>
+  <clipPath id="ia"><rect x="1" y="1" width="415" height="160"/></clipPath>
+  <clipPath id="ib"><rect x="1" y="1" width="415" height="160"/></clipPath>
+</defs>
+
+<style>
+text{font-family:'Liberation Mono','Courier New',ui-monospace,monospace;font-weight:400;white-space:pre}
+.b{font-weight:700}
+@keyframes v1{0%,33.332%{opacity:0}33.333%,66.666%{opacity:1}66.667%,100%{opacity:0}}
+.v1{animation:v1 7.5s linear infinite}
+@keyframes v2{0%,66.666%{opacity:0}66.667%,99.999%{opacity:1}100%{opacity:0}}
+.v2{animation:v2 7.5s linear infinite}
+@keyframes g0{0%,33.332%{opacity:1}33.333%,100%{opacity:0}}
+.g0{animation:g0 7.5s linear infinite}
+@keyframes g1{0%,33.332%{opacity:0}33.333%,66.666%{opacity:1}66.667%,100%{opacity:0}}
+.g1{animation:g1 7.5s linear infinite}
+@keyframes g2{0%,66.666%{opacity:0}66.667%,99.999%{opacity:1}100%{opacity:0}}
+.g2{animation:g2 7.5s linear infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+
+<g transform="translate(1 1)">
+  <rect x=".5" y=".5" width="416" height="251" fill="#000" stroke="#fff" stroke-width="1"/>
+
+  <!-- SLIDES (images) -->
+  <g clip-path="url(#ia)">
+    <!-- Slide 1 (static base) -->
+    <image id="slide1" href="https://res.cloudinary.com/acj2ri81/image/upload/f_auto,q_auto/Screenshot_from_2026-11-22_16-15-43" xlink:href="https://res.cloudinary.com/acj2ri81/image/upload/f_auto,q_auto/Screenshot_from_2026-11-22_16-15-43" x="1" y="1" width="415" height="160" preserveAspectRatio="xMidYMid slice"/>
+
+    <!-- Slide 2 (fades in at 33%) -->
+    <image id="slide2" class="v1" href="https://ibb.co/FLSt6rwd" xlink:href="https://ibb.co/FLSt6rwd" x="1" y="1" width="415" height="160" preserveAspectRatio="xMidYMid slice"/>
+
+    <!-- Slide 3 (fades in at 66%) -->
+    <image id="slide3" class="v2" href="https://ibb.co/FLSt6rwd" xlink:href="https://ibb.co/FLSt6rwd" x="1" y="1" width="415" height="160" preserveAspectRatio="xMidYMid slice"/>
+
+    <!-- Progress bar -->
+    <rect x="1.00" y="157" width="137.33" height="3" fill="#3a3a3a"/>
+    <rect x="139.33" y="157" width="137.33" height="3" fill="#3a3a3a"/>
+    <rect x="277.67" y="157" width="137.33" height="3" fill="#3a3a3a"/>
+    <rect class="g0" x="1.00" y="157" width="137.33" height="3" fill="#fff"/>
+    <rect class="g1" x="139.33" y="157" width="137.33" height="3" fill="#fff"/>
+    <rect class="g2" x="277.67" y="157" width="137.33" height="3" fill="#fff"/>
+  </g>
+
+  <path d="M1 161.5H416" stroke="#fff" stroke-width="1"/>
+
+  <!-- Badge -->
+  <rect x="8" y="8" width="26" height="16" fill="#fff"/>
+  <text class="b" x="13" y="20" font-size="11" fill="#000">01</text>
+
+  <!-- Title + description -->
+  <text class="b" x="12" y="184" font-size="13.5" fill="#fff">GlobalXport</text>
+  <text x="12" y="204" font-size="11.5" fill="#bdbdbd">AI-powered export documentation, compliance and</text>
+  <text x="12" y="219" font-size="11.5" fill="#bdbdbd">logistics for Indian MSME exporters.</text>
+
+  <!-- Arrow button -->
+  <rect x="383" y="168" width="22" height="22" fill="#fff"/>
+  <path d="M390 183L398 175M391 175H398V182" stroke="#000" stroke-width="2" fill="none" stroke-linecap="square"/>
+
+  <!-- Tags -->
+  <rect x="12.5" y="228.5" width="28" height="15" fill="none" stroke="#555"/>
+  <text x="19" y="239.5" font-size="10" fill="#bdbdbd" letter-spacing="1">AI</text>
+  <rect x="46.5" y="228.5" width="84" height="15" fill="none" stroke="#555"/>
+  <text x="53" y="239.5" font-size="10" fill="#bdbdbd" letter-spacing="1">COMPLIANCE</text>
+  <rect x="136.5" y="228.5" width="77" height="15" fill="none" stroke="#555"/>
+  <text x="143" y="239.5" font-size="10" fill="#bdbdbd" letter-spacing="1">LOGISTICS</text>
+</g>
+</svg>
